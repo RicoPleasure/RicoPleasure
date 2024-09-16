@@ -7,9 +7,9 @@ I did not called myself a digital craftsman because I'm very good at doing what 
 ### Connect with me:
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/enrico-prazeres-4b44a7214/?originalSubdomain=pt"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/enrico-prazeres-4b44a7214/?originalSubdomain=pt"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://discord.gg/449895741456908291" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/449895741456908291" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
