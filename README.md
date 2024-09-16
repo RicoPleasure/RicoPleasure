@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I did not called myself a digital craftsman because I'm very good at doing what I do. It's just that I put 100% of me on whatever gout put me to do. I started as a kid with 13yo trying to make some websites for me and to my father and since then I never stopped with software development. Now I'm 18yo and I just got into University and I will keep doing this till I reach greatness. You can reach me out on my social media.
+I did not called myself a digital craftsman because I'm very good at doing what I do, it's just that I put 100% of me on whatever gout put me to do. My journey in software development began when I was 13, building websites for myself and my father. Since then, I’ve been continuously growing my skills and passion for coding. Now, at 18, I’m pursuing a degree in Computer Science and remain committed to achieving excellence in the field. You can reach me out on my social media.
 
 ### Connect with me:
 
