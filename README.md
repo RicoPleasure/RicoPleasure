@@ -1,6 +1,6 @@
 # RicoPleasure
 
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman`**
 
 I did not called myself a digital craftsman because I'm very good at doing what I do, it's just that I put 100% of me on whatever gout put me to do. My journey in software development began when I was 13, building websites for myself and my father. Since then, I’ve been continuously growing my skills and passion for coding. Now, at 18, I’m pursuing a degree in Computer Science and remain committed to achieving excellence in the field. You can reach me out on my social media.
 
