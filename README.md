@@ -2,14 +2,20 @@
 
 **`Digital Craftsman`**
 
-I did not called myself a digital craftsman because I'm very good at doing what I do, it's just that I put 100% of me on whatever gout put me to do. My journey in software development began when I was 13, building websites for myself and my father. Since then, I’ve been continuously growing my skills and passion for coding. Now, at 18, I’m pursuing a degree in Computer Science and remain committed to achieving excellence in the field. You can reach me out on my social media.
+**Past:** Hello! My journey in software development began when I was 13, building websites for myself and my father. I have been continuously growing my overall technical skills and working on React applications using Tailwind CSS. 
+
+**Present:** At 18, I have just started my Computer Engineering degree and I'm dedicating myself 100% to improving both hard and soft skills. I am currently exploring some functional languages such as Haskell and Elixir.
+
+**Future:** I am excited to contribute to meaningful and useful projects and join a large company like Google.
+
+Feel free to contact me on X or LinkedIn - I'm always open to networking and learning new things!
 
 ### Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/enrico-prazeres-4b44a7214/?originalSubdomain=pt"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="[https://discord.gg/449895741456908291](https://x.com/esprazj)" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/enrico-prazeres-4b44a7214/?originalSubdomain=pt"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
