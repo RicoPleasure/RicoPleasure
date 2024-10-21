@@ -6,7 +6,7 @@
 
 **Present:** At 18, I have just started my Computer Engineering degree and I'm dedicating myself 100% to improving both hard and soft skills. I am currently exploring some functional languages such as Haskell and Elixir.
 
-**Future:** I am excited to contribute to meaningful and useful projects and join a large company like Google.
+**Future:** I am excited to contribute to meaningful and useful projects.
 
 Feel free to contact me on X or LinkedIn - I'm always open to networking and learning new things!
 
