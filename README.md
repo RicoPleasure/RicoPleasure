@@ -13,8 +13,6 @@ Feel free to contact me on X or LinkedIn - I'm always open to networking and lea
 ### Connect with me:
 
 <p>
-  <a href="[https://discord.gg/449895741456908291](https://x.com/esprazj)" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/enrico-prazeres-4b44a7214/?originalSubdomain=pt"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
